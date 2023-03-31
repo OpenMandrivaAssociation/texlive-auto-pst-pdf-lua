@@ -1,6 +1,6 @@
 Name:		texlive-auto-pst-pdf-lua
 Version:	54779
-Release:	1
+Release:	2
 Summary:	Using LuaLaTeX together with PostScript code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/auto-pst-pdf-lua
