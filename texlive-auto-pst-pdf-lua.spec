@@ -3,7 +3,7 @@ Version:	66637
 Release:	1
 Summary:	Using LuaLaTeX together with PostScript code
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/auto-pst-pdf-lua
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/auto-pst-pdf-lua
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/auto-pst-pdf-lua.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/auto-pst-pdf-lua.doc.r%{version}.tar.xz
